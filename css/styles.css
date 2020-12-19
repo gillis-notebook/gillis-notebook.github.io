@@ -347,6 +347,8 @@ a:selected{
 .notes {
 	max-width: 14rem;
 	margin: 0 auto;
+	text-align:center;
+	/*display: inline-block;*/
 }
 
 .clip-text {
